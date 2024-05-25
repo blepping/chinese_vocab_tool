@@ -1,0 +1,2 @@
+chinese-english-lookup>=0.0.3
+ckip-transformers>=0.3
